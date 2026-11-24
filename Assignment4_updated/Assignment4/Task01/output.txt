@@ -1,0 +1,14 @@
+COLLEGE PAYROLL SYSTEM
+
+Name: PINDIBOINA SAI DEEPAK
+ID: 101
+Salary: Rs. 81000
+-------------------
+Name: PINDIBOINA SAI DEEPAK
+ID: 102
+Salary: Rs. 42600
+-------------------
+Name: PINDIBOINA SAI DEEPAK
+ID: 103
+Salary: Rs. 40000
+-------------------
